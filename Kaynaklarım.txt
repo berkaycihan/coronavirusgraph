@@ -1,0 +1,9 @@
+https://likegeeks.com/python-gui-examples-tkinter-tutorial/
+
+https://realpython.com/tutorials/api/
+
+https://matplotlib.org/tutorials/introductory/pyplot.html
+
+https://www.w3schools.com/python/python_json.asp
+
+https://realpython.com/python-exceptions/#:~:text=The%20try%20and%20except%20block%20in%20Python%20is%20used%20to,in%20the%20preceding%20try%20clause.
